@@ -27,7 +27,7 @@ Find accuracy, confusion matrix ,and classification report using sklearn.metrics
 Predict for the new given values. End of the program.
 
 ## Program:
-```
+```python
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: NITHISHWAR S
